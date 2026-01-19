@@ -54,7 +54,7 @@
 - **融资背景**：获得 Animoca Brands 战略投资
 - **核心价值**：一站式区块链游戏分发平台（上架/交易/社区）
 - **技术壁垒**：底层集成 MPC 安全技术
-- 🌐 **链接**：<https://YOUR_REALPLAYER_LINK>（替换为真实链接，无可删除）
+- 🌐 **链接**：<[https://YOUR_REALPLAYER_LINK](https://github.com/RPD-Davidshark999/RPD-Davidshark999#)>
 
 ### 2) PulsePay | 新一代支付系统
 - **定位**：集成 MPC 安全技术的 Web3 支付解决方案
