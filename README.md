@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 鲨鱼+黑客技术风格横幅图 - 自适应优化 -->
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fol.3dmgame.com%2Fgl%2F192197.html&psig=AOvVaw3_TRAM0s5PQ3D1JWgECYOK&ust=1768884611371000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjat-_mlpIDFQAAAAAdAAAAABAL" 
+  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fol.3dmgame.com%2Fgl%2F192197.html&psig=AOvVaw3_TRAM0s5PQ3D1JWgECYOK&ust=1768884611371000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjat-_mlpIDFQAAAAAdAAAAABAL](https://pic.rmb.bdstatic.com/bjh/250811/dump/ae8328279fa036f76a855746c950ff51.jpeg)" 
        alt="David Shark's Banner" 
        width="100%" 
        style="border-radius: 12px; max-height: 300px; object-fit: cover; display: block; margin: 0 auto;">
