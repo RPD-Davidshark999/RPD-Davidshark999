@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm XXX 👋
 
-<!--
-**RPD-Davidshark999/RPD-Davidshark999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer / designer / student based in China.
 
-Here are some ideas to get you started:
-
+## 🚀 About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ My Skills
+- HTML / CSS / JavaScript (basic)
+- UI Design
+- Data Analysis
+- ...
+
+## 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RPD-Davidshark999&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RPD-Davidshark999&theme=radical)
+
+## 📫 Connect with Me
+- [telegram](@shark9981)
+- [Twitter](https://x.com/David__Shark)
