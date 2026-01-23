@@ -99,12 +99,12 @@
 
 > 📌 推荐理由：币安为世界第一交易所，BYBIT和OK并列世界前三的交易所，BYBIT支持中国等国家直接USDT消费，减少磨损和兑换资金繁琐流程，现在申请还有USDT返现
 
-- 💰 **Bybit交易所推荐** → <https://www.bybit.com/invite?ref=RGG00NL>
-- 💳 **Bybit Card 推荐** → <https://www.bybit.com/fiat/cards?source=referral&campaignId=1686258086857150464&ref=RGG00NL>
-- 💰 **币安交易所推荐** → <https://www.maxweb.chat/zh-CN/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_XUIKM&utm_source=default>
-- 💰 **OK交易所推荐** → <https://bjwebptyiou.com/join/1925715>
 
----
+- 📚 [Bybit交易所推荐](https://www.bybit.com/invite?ref=RGG00NL)
+- 📚 [BybitCard推荐](https://www.bybit.com/fiat/cards?source=referral&campaignId=1686258086857150464&ref=RGG00NL)
+- 📚 [OK交易所推荐](https://bjwebptyiou.com/join/1925715)
+- 📚 [币安交易所推荐](https://www.maxweb.chat/zh-CN/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_XUIKM&utm_source=default)
+  
 
 ## 📝 Latest Articles（最新文章）
 *“Occasional rants on tech, crypto, and the future of storytelling.”*
