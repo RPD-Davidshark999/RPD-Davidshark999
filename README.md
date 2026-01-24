@@ -106,12 +106,13 @@
 - 📚 [币安交易所推荐](https://www.maxweb.chat/zh-CN/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_XUIKM&utm_source=default)
   
 
-## 📝 Latest Articles（最新文章）
+## 📝 Latest Articles（最新文章，分享一些撸羊毛专属）
 *“Occasional rants on tech, crypto, and the future of storytelling.”*
 
 - 📚 [短剧行业大科普1](https://mp.weixin.qq.com/s/KvLtGsg2TTruz5LCnjlJOw)
 - 📚 [聊聊品牌短剧](https://mp.weixin.qq.com/s/Q0utzyY0jVzd-lY6L-Tyiw)
 - 📚 [有关小说IP改编短剧剧本工具的使用说明书](https://mp.weixin.qq.com/s/QotjT39O74wkmmVcix7x9w)
+- 📚 [白嫖腾讯云3个月2H2G服务器截止2026-1月底依然有效](https://x.com/David__Shark/status/2014879374168993893?s=20)
 
 > 提示：文章内容比较杂，反正想啥说啥写啥
 
